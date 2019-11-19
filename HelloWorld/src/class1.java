@@ -3,10 +3,10 @@
  */
 public class class1 {
     /**
-     * this will cause a conflict hello world 
+     * this is the best thing i did all day!
      * @param args :()
      */
     public static void main(String[] args) {
-        System.out.println("hello");
+        System.out.println("goodbye");
     }
 }
