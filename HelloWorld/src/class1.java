@@ -3,10 +3,10 @@
  */
 public class class1 {
     /**
-     * this is the best thing i did all day!
+     * bjkbjdvedfvhfvhdfved
      * @param args :()
      */
     public static void main(String[] args) {
-        System.out.println("goodbye");
+        System.out.println("dbhdvhe");
     }
 }
