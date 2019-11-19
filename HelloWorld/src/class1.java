@@ -1,9 +1,9 @@
 /**
- * this is so so much fun!!
+ * Bad comments and something else
  */
 public class class1 {
     /**
-     * good comments
+     * this will cause a conflict hello world 
      * @param args :()
      */
     public static void main(String[] args) {
