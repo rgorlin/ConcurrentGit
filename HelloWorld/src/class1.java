@@ -3,7 +3,7 @@
  */
 public class class1 {
     /**
-     * this is the best thing i did all day!
+     * omg so nice like i love this 
      * @param args :()
      */
     public static void main(String[] args) {
